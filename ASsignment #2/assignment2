@@ -1,2 +1,47 @@
-hello
-hello
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+    <h1> My name is Diego Zegarra </h1>
+    <img height='100'>
+    <img id='tree' src='realtree.png' alt='tree' height='100'>
+
+    <h2> Objective </h2>
+    <p> My objective is to acquire a job </p>
+
+
+
+    <h2> Education </h2>
+    <table>
+     <tr>
+      <th>Highschool</th>
+      <th>Chandler-Gilbert Community College</th>
+      <th>Arizona State University</th>
+     </tr>
+     <tr>
+      <td>2014-2018</td>
+      <td>2016-2018 (ACE Program)</td>
+      <td>2018-Present</td>
+     </tr>
+    </table>
+
+
+    <h2> Experience </h2>
+    <ol>
+      <li>Panera Bread: 2017-Present</li>
+    </ol>
+
+
+    <h2> References </h2>
+    <ul>
+      <li>Angela Cicero</li>
+      <li>Amy Komitzky</li>
+      <li>Rickie Garcia</li>
+    </ul>
+
+
+</body>
+
+</html>
