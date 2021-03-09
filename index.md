@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel='stylesheet' href='Assignment4.css'>
+</head>
 
-You can use the [editor on GitHub](https://github.com/dzegarra20/AME220Spring2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+    <div class='wrapper'>
+    <h1> My name is Diego Zegarra </h1>
+    <section>
+    <img height='100',>
+    <img src='thumbnail.png' alt='thumbnail' height='200'><br>
+    
+    <a href='https://www.google.com/maps/place/2662+W+Ivanhoe+St,+Chandler,+AZ+85224/@33.3173887,-111.8897653,17z/data=!3m1!4b1!4m5!3m4!1s0x872b0730ba35a159:0xfe868d5b2e022673!8m2!3d33.3173842!4d-111.8875766'>2662 West Ivanhoe Street Chandler AZ 85224</a><br>
+    <a href='tel:4804158469'>480-415-8469</a><br>
+    <a href='mailto:dzegarra@asu.edu'>dzegarra@asu.edu</a>
+    </section>
+    <h2> Objective </h2>
+    <p> My objective is to acquire a job at Apple</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <h2> Education </h2>
+    <table border='1', style='text-align:center'>
+     <tr>
+      <th style='color:blue'>Chandler Highschool</th>
+      <th>Chandler-Gilbert Community College</th>
+      <th>Arizona State University</th>
+     </tr>
+     <tr>
+      <td>2014-2018</td>
+      <td>2016-2018 (ACE Program)</td>
+      <td>2018-Present</td>
+     </tr>
+     <tr>
+       <td>Highschool Diploma</td>
+       <td>College-Credit Classes Highschool</td>
+       <td>Digital Culture Major (Bachelor's Degree)</td>
+     </tr>
+    </table>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+    <h2> Experience </h2>
+    <ol>
+      <li>Panera Bread: 2017-Present</li>
+          <p>I started working at Panera during my senior year of highschool in 2017. I have been working there ever since. My daily tasks would include cashier, food preperation, drive-thru, busser and much more. Whether it was cleaning, stocking, or making food I always did my job to the fullest potential.</p>
+    </ol>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+    <h2> References </h2>
+    <ul>
+      <li>Angela Cicero: 602-418-7571</li>
+      <li>Amy Komitzky: 480-312-3912</li>
+      <li id='pad'>Rickie Garcia: 602-301-9645</li>
+    </ul>
+    
+    </div>
+</body>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dzegarra20/AME220Spring2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
